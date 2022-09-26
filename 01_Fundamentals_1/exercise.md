@@ -1,15 +1,20 @@
 # [Subject]
-[Give a short summary of the subject matter.]
+Create GitHub repo. Invite and hand out permissions to teammates. Push code to repo. Pull and clone a repo from one of your peers.
 
 ## Key terminology
-[Write a list of key terminology with a short description. To prevent duplication you can reference to previous excercises.]
+Repository
+Git
+Clone
+Push
+Markdown (.md)
 
 ## Exercise
 ### Sources
 [List the sources you used for solving the exercise]
-
+https://docs.github.com/en/repositories/creating-and-managing-repositories/duplicating-a-repository
+https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-email-preferences/setting-your-commit-email-address
 ### Overcome challenges
-[Give a short description of the challeges you encountered, and how you solved them.]
+I 
 
 ### Results
-[Describe the result of the exercise. An image can speak more than a thousand words, include one when this wisdom applies.]
+I created a new repository, cloned the Cloud9 repository and invited my teammates.
