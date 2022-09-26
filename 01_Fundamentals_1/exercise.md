@@ -5,8 +5,14 @@ Create GitHub repo. Invite and hand out permissions to teammates. Push code to r
 Repository
 Git
 Clone
-Push
 Markdown (.md)
+Main / Master
+Branch
+Commit
+Push / Pull
+Merge
+Fork
+
 
 ## Exercise
 ### Sources
