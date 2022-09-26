@@ -1,4 +1,4 @@
-# [Subject]
+# [Git en GitHub]
 Create a GitHub repo. Invite and hand out permissions to teammates. Push code to repo. Pull and clone a repo from one of your peers.
 
 ## Key terminology
